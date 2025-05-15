@@ -1,7 +1,7 @@
 # 🔺 Looping(Patterns)-Pascal's Triangle Generator in Python
 ---
-## NAME :S.L.NARASIMHA REDDY
-## REG NO:212223040214
+## NAME :G.SANJAY
+## REG NO:212224230243
 ## 🎯 Aim
 
 To write a Python program that generates **Pascal's Triangle** using numbers. The number of rows is accepted from the user.
